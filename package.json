@@ -1,0 +1,17 @@
+{
+	"name": "site.js",
+	"description": "Static file server module for node"
+	"version": "0.0.1",
+	"homepage": "https://github.com/pvorb/site.js",
+	"keywords": ["static", "file server"],
+	"main": "index",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/pvorb/site.js.git"
+	},
+	"author": {
+		"name": "Paul Vorbach",
+		"email": "paul@vorb.de",
+		"url": "http://vorb.de"
+	}
+}

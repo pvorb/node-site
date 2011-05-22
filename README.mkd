@@ -1,0 +1,4 @@
+Site.js
+=======
+
+Site.js is a static file server module for [node](http://nodejs.org).
